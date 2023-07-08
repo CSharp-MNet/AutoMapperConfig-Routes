@@ -1,0 +1,14 @@
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\bin\Debug\net7.0\si730ebu202023992.Infraestructure.deps.json
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\bin\Debug\net7.0\si730ebu202023992.Infraestructure.dll
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\bin\Debug\net7.0\si730ebu202023992.Infraestructure.pdb
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.AssemblyInfo.cs
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.dll
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\refint\si730ebu202023992.Infraestructure.dll
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.pdb
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\ref\si730ebu202023992.Infraestructure.dll
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\bin\Debug\net7.0\si730ebu202023992.Infraestructure.runtimeconfig.json
+C:\Users\Principal\RiderProjects\si730ebu202023992.API\si730ebu202023992.Infraestructure\obj\Debug\net7.0\si730ebu202023992.Infraestructure.genruntimeconfig.cache
