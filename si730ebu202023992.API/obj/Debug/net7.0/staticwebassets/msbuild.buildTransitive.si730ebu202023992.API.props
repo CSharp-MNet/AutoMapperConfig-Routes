@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\si730ebu202023992.API.props" />
-</Project>
